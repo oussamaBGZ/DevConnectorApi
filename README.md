@@ -1,2 +1,2 @@
-# DevConnectorApi
-This the api for the DevConnector web app
+# Nodejs Api
+This is a nodejs api with jwt authentication
